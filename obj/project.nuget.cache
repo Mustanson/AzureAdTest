@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JElzF5bZDL2SFBO7e/uum6TKO7sjAm0LHVRKimw+VHaYHgw4CljJAUqs8mzyAe2ldjGOcdpbbsx/6j8lGgczcw==",
+  "dgSpecHash": "omaiqGBirKTzXAAhOIAOpmGBBsOPn/hWKK/T23A/qPu0cuTevfASg3hVBbowXPH1CeHEkiy/hDfGg4OfWL+9Tg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\khans\\source\\repos\\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\\AzureAdTestApp.csproj",
+  "projectFilePath": "C:\\Users\\khans\\Documents\\github\\AzureAdTest\\AzureAdTestApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\khans\\.nuget\\packages\\azure.core\\1.6.0\\azure.core.1.6.0.nupkg.sha512",
     "C:\\Users\\khans\\.nuget\\packages\\azure.identity\\1.3.0\\azure.identity.1.3.0.nupkg.sha512",

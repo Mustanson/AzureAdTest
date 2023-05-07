@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\khans\\source\\repos\\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\\AzureAdTestApp.csproj": {}
+    "C:\\Users\\khans\\Documents\\github\\AzureAdTest\\AzureAdTestApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\khans\\source\\repos\\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\\AzureAdTestApp.csproj": {
+    "C:\\Users\\khans\\Documents\\github\\AzureAdTest\\AzureAdTestApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\khans\\source\\repos\\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\\AzureAdTestApp.csproj",
+        "projectUniqueName": "C:\\Users\\khans\\Documents\\github\\AzureAdTest\\AzureAdTestApp.csproj",
         "projectName": "AzureAdTestApp",
-        "projectPath": "C:\\Users\\khans\\source\\repos\\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\\AzureAdTestApp.csproj",
+        "projectPath": "C:\\Users\\khans\\Documents\\github\\AzureAdTest\\AzureAdTestApp.csproj",
         "packagesPath": "C:\\Users\\khans\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\khans\\source\\repos\\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\\obj\\",
+        "outputPath": "C:\\Users\\khans\\Documents\\github\\AzureAdTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
