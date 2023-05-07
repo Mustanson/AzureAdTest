@@ -1,0 +1,180 @@
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\AzureAdTestApp.exe
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\AzureAdTestApp.deps.json
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\AzureAdTestApp.runtimeconfig.json
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\AzureAdTestApp.runtimeconfig.dev.json
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\AzureAdTestApp.dll
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\AzureAdTestApp.pdb
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\AzureAdTestApp.Views.dll
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\AzureAdTestApp.Views.pdb
+C:\Users\khans\source\repos\AzureAdTestApp\obj\Debug\netcoreapp3.1\AzureAdTestApp.AssemblyInfoInputs.cache
+C:\Users\khans\source\repos\AzureAdTestApp\obj\Debug\netcoreapp3.1\AzureAdTestApp.AssemblyInfo.cs
+C:\Users\khans\source\repos\AzureAdTestApp\obj\Debug\netcoreapp3.1\AzureAdTestApp.RazorAssemblyInfo.cache
+C:\Users\khans\source\repos\AzureAdTestApp\obj\Debug\netcoreapp3.1\AzureAdTestApp.RazorAssemblyInfo.cs
+C:\Users\khans\source\repos\AzureAdTestApp\obj\Debug\netcoreapp3.1\AzureAdTestApp.TagHelpers.input.cache
+C:\Users\khans\source\repos\AzureAdTestApp\obj\Debug\netcoreapp3.1\AzureAdTestApp.TagHelpers.output.cache
+C:\Users\khans\source\repos\AzureAdTestApp\obj\Debug\netcoreapp3.1\AzureAdTestApp.RazorCoreGenerate.cache
+C:\Users\khans\source\repos\AzureAdTestApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\khans\source\repos\AzureAdTestApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\khans\source\repos\AzureAdTestApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\khans\source\repos\AzureAdTestApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\khans\source\repos\AzureAdTestApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\khans\source\repos\AzureAdTestApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\khans\source\repos\AzureAdTestApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\khans\source\repos\AzureAdTestApp\obj\Debug\netcoreapp3.1\AzureAdTestApp.RazorTargetAssemblyInfo.cache
+C:\Users\khans\source\repos\AzureAdTestApp\obj\Debug\netcoreapp3.1\AzureAdTestApp.RazorTargetAssemblyInfo.cs
+C:\Users\khans\source\repos\AzureAdTestApp\obj\Debug\netcoreapp3.1\AzureAdTestApp.Views.pdb
+C:\Users\khans\source\repos\AzureAdTestApp\obj\Debug\netcoreapp3.1\staticwebassets\AzureAdTestApp.StaticWebAssets.Manifest.cache
+C:\Users\khans\source\repos\AzureAdTestApp\obj\Debug\netcoreapp3.1\staticwebassets\AzureAdTestApp.StaticWebAssets.xml
+C:\Users\khans\source\repos\AzureAdTestApp\obj\Debug\netcoreapp3.1\AzureAdTestApp.dll
+C:\Users\khans\source\repos\AzureAdTestApp\obj\Debug\netcoreapp3.1\AzureAdTestApp.pdb
+C:\Users\khans\source\repos\AzureAdTestApp\obj\Debug\netcoreapp3.1\AzureAdTestApp.genruntimeconfig.cache
+C:\Users\khans\source\repos\AzureAdTestApp\obj\Debug\netcoreapp3.1\AzureAdTestApp.csproj.CopyComplete
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\Azure.Security.KeyVault.Certificates.dll
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\Azure.Security.KeyVault.Secrets.dll
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Abstractions.dll
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Web.dll
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Web.Certificate.dll
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Web.Certificateless.dll
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Web.Diagnostics.dll
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Web.TokenAcquisition.dll
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Web.TokenCache.dll
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.LoggingExtensions.dll
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Validators.dll
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Xml.dll
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.AzureAD.UI.Views.dll
+C:\Users\khans\source\repos\AzureAdTestApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.AzureAD.UI.dll
+C:\Users\khans\source\repos\AzureAdTestApp\obj\Debug\netcoreapp3.1\AzureAdTestApp.csproj.CoreCompileInputs.cache
+C:\Users\khans\source\repos\AzureAdTestApp\obj\Debug\netcoreapp3.1\AzureAdTestApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\khans\source\repos\AzureAdTestApp\obj\Debug\netcoreapp3.1\AzureAdTestApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\AzureAdTestApp.exe
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\AzureAdTestApp.deps.json
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\AzureAdTestApp.runtimeconfig.json
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\AzureAdTestApp.runtimeconfig.dev.json
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\AzureAdTestApp.dll
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\AzureAdTestApp.pdb
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\AzureAdTestApp.Views.dll
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\AzureAdTestApp.Views.pdb
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\Azure.Security.KeyVault.Certificates.dll
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\Azure.Security.KeyVault.Secrets.dll
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.AzureAD.UI.Views.dll
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.AzureAD.UI.dll
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\Microsoft.Identity.Abstractions.dll
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\Microsoft.Identity.Web.dll
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\Microsoft.Identity.Web.Certificate.dll
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\Microsoft.Identity.Web.Certificateless.dll
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\Microsoft.Identity.Web.Diagnostics.dll
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\Microsoft.Identity.Web.TokenAcquisition.dll
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\Microsoft.Identity.Web.TokenCache.dll
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.LoggingExtensions.dll
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Validators.dll
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Xml.dll
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\obj\Debug\netcoreapp3.1\AzureAdTestApp.csprojAssemblyReference.cache
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\obj\Debug\netcoreapp3.1\AzureAdTestApp.AssemblyInfoInputs.cache
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\obj\Debug\netcoreapp3.1\AzureAdTestApp.AssemblyInfo.cs
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\obj\Debug\netcoreapp3.1\AzureAdTestApp.csproj.CoreCompileInputs.cache
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\obj\Debug\netcoreapp3.1\AzureAdTestApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\obj\Debug\netcoreapp3.1\AzureAdTestApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\obj\Debug\netcoreapp3.1\AzureAdTestApp.RazorAssemblyInfo.cache
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\obj\Debug\netcoreapp3.1\AzureAdTestApp.RazorAssemblyInfo.cs
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\obj\Debug\netcoreapp3.1\AzureAdTestApp.TagHelpers.input.cache
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\obj\Debug\netcoreapp3.1\AzureAdTestApp.TagHelpers.output.cache
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\obj\Debug\netcoreapp3.1\AzureAdTestApp.RazorCoreGenerate.cache
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\obj\Debug\netcoreapp3.1\AzureAdTestApp.RazorTargetAssemblyInfo.cache
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\obj\Debug\netcoreapp3.1\AzureAdTestApp.RazorTargetAssemblyInfo.cs
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\obj\Debug\netcoreapp3.1\AzureAdTestApp.Views.pdb
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\obj\Debug\netcoreapp3.1\AzureAdTestApp.csproj.CopyComplete
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\obj\Debug\netcoreapp3.1\staticwebassets\AzureAdTestApp.StaticWebAssets.Manifest.cache
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\obj\Debug\netcoreapp3.1\staticwebassets\AzureAdTestApp.StaticWebAssets.xml
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\obj\Debug\netcoreapp3.1\AzureAdTestApp.dll
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\obj\Debug\netcoreapp3.1\AzureAdTestApp.pdb
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\obj\Debug\netcoreapp3.1\AzureAdTestApp.genruntimeconfig.cache
+C:\Users\khans\source\repos\AzureAdTestApp - Copy Good Azure bkp by Salman bhai\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
